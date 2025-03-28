@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Lo esencial es invisible a los ojos.
+subtitle: <a href='#'>Lo esencial es invisible a los ojos
 
 profile:
   align: right
-  image: luqa.jpeg
+  image: luqa.png
   image_circular: false # crops the image to make it circular
   more_info: >
   From El Tigre 🐅, VEN 🇻🇪
