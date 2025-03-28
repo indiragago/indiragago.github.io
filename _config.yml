@@ -7,15 +7,15 @@ first_name: Indira
 middle_name: Gago
 last_name: Castillo
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Ayudo a marcas a crear su estrategia. ¡Contáctame!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal webpage.
+  Mi Página Web Personal.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Designed by *tmep* <a href="https://github.com/mmarquezsosa">. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: portfolio-website # add your own keywords or leave empty
+lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://indiragago.github.io # the base hostname & protocol for your site
@@ -114,7 +114,7 @@ giscus:
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
-  lang: en
+  lang: es
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: indiragago # put your disqus shortname
