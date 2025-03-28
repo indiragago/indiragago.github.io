@@ -46,6 +46,6 @@ whatsapp_number: +584120203616 # your WhatsApp number (full phone number in inte
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: tiktok.png # can be png, svg, jpg
+  logo: https://static.vecteezy.com/system/resources/previews/016/716/450/non_2x/tiktok-icon-free-png.png # can be png, svg, jpg
   title: Tik-Tok
   url: https://www.tiktok.com/@indiragago
